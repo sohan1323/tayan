@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="index.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main">
+        <form action="">
+            <label for="name">Name</label>
+            <input type="text" id="name"><br>
+            <label for="mail">Email</label>
+            <input type="email" id="email"><br>
+            <label for="gender">Gender</label>
+            <input type="radio" id="male" name="gender" value="male">
+            <label for="">male</label>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="">female</label>
+            <br>
+            <label for="password">Password</label>
+            <input type="password" id="password"><br>
+
+            <label for="country">Country :</label>
+            <select name="country" id="country">
+                <option value="India">India</option>
+                <option value="Russia">Russia</option>
+                <option value="Japan">Japan</option>
+            </select>
+            <hr><br><br>
+
+            <label for="skills">Skills</label>
+            <input type="checkbox"  class="chbox"  value="html">HTML
+            <input type="checkbox" class="chbox" value="css" >CSS
+            <input type="checkbox" class="chbox" value="javascript">JavaScript
+
+
+
+
+            <!-- <button type="button" onclick="display()">Submit</button> -->
+            <button type="button" onclick="getSkill()">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

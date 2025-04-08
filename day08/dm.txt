@@ -1,0 +1,55 @@
+<div class="hero-container">
+        <aside>
+            <div class="hero-aside">
+                <div class="row">
+                    <div class="col-md-12 aside-child ch1 text-center">
+                        <div class="col-md-12">
+                            <p>Top Categories</p>
+                        </div>
+                        <div class="col-md-12">
+                            <p>Men's Fashion</p>
+                        </div>
+                        <div class="col-md-12">
+                            <p>Women's fashion</p>
+                        </div>
+                        <div class="col-md-12">
+                            <p>Home & Kitchen</p>
+                        </div>
+                        <div class="col-md-12">
+                            <p>Toys Kids</p>
+                        </div>
+                        <div class="col-md-12">
+                            <p>beauty & health</p>
+                        </div>
+                    </div>
+                    <div class="col-md-12 aside-child ch2 text-center">
+                        <div class="col-md-12">More Categories</div>
+                        <div class="col-md-12">Automotives</div>
+                        <div class="col-md-12">Mobile & Accessories</div>
+                        <div class="col-md-12">Electronics</div>
+                        <div class="col-md-12">Sports,Fitness & Outdoor</div>
+                        <div class="col-md-12">Computer & Gaming</div>
+                        <div class="col-md-12">Books,Media & Music</div>
+                        <div class="col-md-12">Hobbies</div>
+                    </div>
+                    <div class="col-md-12 aside-child ch3 text-center">
+                        <div class="col-md-12">TRENDING SEARCHES</div>
+                        <div class="col-md-12">Kitchen Product</div>
+                        <div class="col-md-12">Shoes For Men</div>
+                        <div class="col-md-12">Kurti Set</div>
+                        <div class="col-md-12">Sandal Men</div>
+                        <div class="col-md-12">Sport Shoe Men</div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        <section>
+            <div class="hero-main">
+                22
+            </div>
+            <div class="hero-card">
+                44
+            </div>
+        </section>
+        
+    </div>
